@@ -1,7 +1,7 @@
 {
 "name": "Angular PWA",
 "short_name": "This name will show in your Windows taskbar, in the start menu, and Android homescreen",
-"start_url": "https://casare86.github.io/angular-pwa/",
+"start_url": "/angular-pwa/",
 "display": "standalone",
 "description": "A description for your application",
 "lang": " The default language of your application",
